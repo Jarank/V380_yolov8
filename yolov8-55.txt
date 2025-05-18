@@ -1,0 +1,118 @@
+    1  pwd
+    2  rsync -av pi@192.168.2.29:/home/pi/v380* .
+    3  pwd
+    4  rsync -av pi@192.168.2.29:/home/pi/V380* .
+    5  ls -la
+    6* 
+    7  ls
+    8  python3 v380-92.py
+    9  ls
+   10  vi v380-92.py
+   11  sudo apt install python3-numpy
+   12  ping 192.168.2.29
+   13  ping 192.168.2.92
+   14  ls
+   15  python3 v380cap-92.py
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd V380_object_detection
+   20  ls
+   21  sudo apt install python3-setuptools
+   22  sudo apt install python3-jupyterhub
+   23  sudo apt install python3-pip
+   24  sudo apt install python3-wheel
+   25  sudo apt install python3-matplotlib
+   26  sudo apt install mbpoll
+   27  sudo apt install jupyterlab
+   28  sudo apt install python3-jupyterlab
+   29  ls
+   30  cat yplov8-instsll.txt
+   31  pip3 install onvif-zeep
+   32  sudo apt-get install python-imaging python-imaging-tk
+   33  cat yplov8-instsll.txt
+   34  pip3 install customtkinter
+   35  pip3 install python-pil
+   36  sudo apt-get install python-imaging python-imaging-tk
+   37  pip3 install tkinter customtkinter
+   38  apt update
+   39  sudo apt update
+   40  sudo apt upgrade
+   41  sudo apt autoremove
+   42  ls
+   43  python3 main.py
+   44  pip3 install ultralytics
+   45  python3 main.py
+   46  df
+   47  ls
+   48  ls -la
+   49  cd utils
+   50  ls
+   51  cd ..
+   52  ls
+   53  cd utils
+   54  ls
+   55  cp config.py config-92.py
+   56  vi config.py
+   57  ping 192.168.2.93
+   58  cd ..
+   59  la
+   60  ls
+   61  ls -la
+   62  python3 main.py
+   63  ls
+   64  cd utils
+   65  ls
+   66  vi config.py
+   67  ls
+   68  ls -la
+   69  vi load_images.py
+   70  ls
+   71  cd ..
+   72  ls
+   73  vi ptz_control.py
+   74  vi v380_camera_gui.py
+   75  python3 main.py
+   76  vi v380_camera_gui.py
+   77  python3 main.py
+   78  vi v380_camera_gui.py
+   79  python3 main.py
+   80  ls
+   81* 
+   82  ls
+   83  vi config.py
+   84  cd ..
+   85  python3 main.py
+   86  ls
+   87  vi main.py
+   88  cp main.py main-1.py
+   89  vi main.py
+   90  python3 main.py
+   91  vi main.py
+   92  ls
+   93  cd utils
+   94  ls
+   95  copy config.py config-93.py
+   96  cp config.py config-93.py
+   97  ls
+   98  vi config.py
+   99  cd ..
+  100  python3 main.py
+  101  ls
+  102  cd utils
+  103  ls
+  104  vi config.py
+  105  ls
+  106  cd ..
+  107  ls
+  108  python3 main.py
+  109  ip a
+  110  cd utils
+  111  ;s
+  112  ls
+  113  cp config-92.py config.py
+  114  cd ..
+  115  ls
+  116  python3 main.py
+  117  history
+  118  history > yolov8-55.txt

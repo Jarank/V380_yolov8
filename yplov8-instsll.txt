@@ -1,0 +1,47 @@
+   10  cd V380_Python
+   12  python3 v380cap-92.py
+   15  sudo apt update
+   16  sudo apt install python3-opencv
+   22  python3 v380cap-92.py
+   23  sudo apt install gtk-dev
+   24  sudo apt search gtk
+   25  sudo apt install python3-wxgtk4.0/jammy
+   26  python3 v380cap-92.py
+   37  python3 v380-92.py
+   38  pip3
+   39  sudo apt install python3-setuptools
+   40  sudo apt install python3-pip
+   45  pip3 install python3-torch
+   46  pip3 install torch
+   47  pip3 install numpy
+   54  cd V380_object_detection
+   59  pip3 install -r requirements.txt
+   60  ls
+   61  python3 main.py
+   62  sudo apt install tk
+   64  sudo apt-get install python3-tk
+   66  sudo apt-get install python3-pillow
+   67  sudo apt-get install python3-PIL
+   68  pip3 install matplotlib
+   69  python3 main.py
+   70  pip3 install tkinter customtkinter
+   71  pip3 install customtkinter
+   72  python3 main.py
+   73  python3
+   74  pip3 install python3-distutils-extra
+   75  pip3 install ImageMagick
+   76  pip3 install python3-pillow
+   77  pip3 install python-pil
+   78  sudo apt-get install python3-pil.imagetk
+   79  sudo apt-get install python-imaging python-imaging-tk
+   81  pip3 install python-pil
+   82  python3 main.py
+   83  pip3 install onvif-zeep
+   84  python3 main.py
+   85  find /usr  -name "devicemgmt.wsdl" 
+   86  sudo find /home/pi -name "devicemgmt.wsdl"
+   87  ls
+   88  vi ptz_control.py
+   89  python3 main.py
+   92  history
+   93  history > yplov8-instsll.txt
